@@ -1,3 +1,3 @@
-const nam = 'andre';
+const name = 'andre';
 
 const showNem = () => name;
