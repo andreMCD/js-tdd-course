@@ -1,3 +1,5 @@
 const name = 'andre';
 
-const showNem = () => name;
+const showName = () => name;
+
+showName();
